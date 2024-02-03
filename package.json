@@ -30,7 +30,7 @@
   },
   "homepage": "https://github.com/jhamlet/svg-react-loader#readme",
   "dependencies": {
-    "css": "2.2.4",
+    "css": "3.0.0",
     "loader-utils": "1.1.0",
     "ramda": "0.27.2",
     "rx": "4.1.0",
